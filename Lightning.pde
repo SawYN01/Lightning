@@ -60,13 +60,13 @@ void draw()
     rect(x,475, 10, 15);
   //angry eyes
   fill(0,0,0);
-  ellipse(220, 395, 15, 25);
-  ellipse(280, 395, 15, 25);
+  ellipse(215, 390, 30, 10);
+  ellipse(285, 390, 30, 10);
   stroke(0);
   strokeWeight(3);
   line(175,360,230,375);
   line(325,360,270,375);
-  triangle(240, 420, 260, 420, 250, 430);
+  triangle(240, 410, 260, 410, 250, 430);
 
   //background(0,0,0,10);
   //lightning
